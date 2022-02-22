@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "week-4",
+    "slug": "week-4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "week-4"
+}
